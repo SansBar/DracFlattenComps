@@ -579,12 +579,12 @@
             <Components>
               <Component Subtype="TechA4x" Count="19"/>
               <Component Subtype="TechB4x" Count="19"/>
-              <Component Subtype="SteelPlate" Count="360"/>
-              <Component Subtype="LargeTube" Count="180"/>
-              <Component Subtype="SmallTube" Count="135"/>
-              <Component Subtype="Computer" Count="18"/>
-              <Component Subtype="Construction" Count="90"/>
-              <Component Subtype="SteelPlate" Count="270"/>
+                <Component Subtype="SteelPlate" Count="240"/>
+                <Component Subtype="LargeTube" Count="120"/>
+                <Component Subtype="SmallTube" Count="90"/>
+                <Component Subtype="Computer" Count="12"/>
+                <Component Subtype="Construction" Count="60"/>
+                <Component Subtype="SteelPlate" Count="180"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0"/>
             <MountPoints>
@@ -658,12 +658,12 @@
             <Components>
               <Component Subtype="TechA4x" Count="4"/>
               <Component Subtype="TechB4x" Count="4"/>
-              <Component Subtype="SteelPlate" Count="135"/>
-              <Component Subtype="LargeTube" Count="90"/>
-              <Component Subtype="SmallTube" Count="135"/>
-              <Component Subtype="Computer" Count="18"/>
-              <Component Subtype="Construction" Count="90"/>
-              <Component Subtype="SteelPlate" Count="45"/>
+                <Component Subtype="SteelPlate" Count="90"/>
+                <Component Subtype="LargeTube" Count="60"/>
+                <Component Subtype="SmallTube" Count="90"/>
+                <Component Subtype="Computer" Count="12"/>
+                <Component Subtype="Construction" Count="60"/>
+                <Component Subtype="SteelPlate" Count="30"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0"/>
             <MountPoints>
@@ -744,12 +744,12 @@
             <Components>
               <Component Subtype="TechA4x" Count="4"/>
               <Component Subtype="TechB4x" Count="4"/>
-              <Component Subtype="SteelPlate" Count="135"/>
-              <Component Subtype="LargeTube" Count="90"/>
-              <Component Subtype="SmallTube" Count="135"/>
-              <Component Subtype="Computer" Count="18"/>
-              <Component Subtype="Construction" Count="90"/>
-              <Component Subtype="SteelPlate" Count="45"/>
+                <Component Subtype="SteelPlate" Count="90"/>
+                <Component Subtype="LargeTube" Count="60"/>
+                <Component Subtype="SmallTube" Count="90"/>
+                <Component Subtype="Computer" Count="12"/>
+                <Component Subtype="Construction" Count="60"/>
+                <Component Subtype="SteelPlate" Count="30"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0"/>
             <MountPoints>
@@ -836,12 +836,12 @@
       <Components>
               <Component Subtype="TechA4x" Count="2"/>
               <Component Subtype="TechB4x" Count="2"/>
-              <Component Subtype="SteelPlate" Count="23"/>
-              <Component Subtype="LargeTube" Count="18"/>
-              <Component Subtype="SmallTube" Count="23"/>
-              <Component Subtype="Computer" Count="18"/>
-              <Component Subtype="Construction" Count="23"/>
-              <Component Subtype="SteelPlate" Count="14"/>
+                <Component Subtype="SteelPlate" Count="15"/>
+                <Component Subtype="LargeTube" Count="12"/>
+                <Component Subtype="SmallTube" Count="15"/>
+                <Component Subtype="Computer" Count="12"/>
+                <Component Subtype="Construction" Count="15"/>
+                <Component Subtype="SteelPlate" Count="9"/>
       </Components>
       <CriticalComponent Subtype="Computer" Index="0" />
       <MountPoints>
@@ -911,12 +911,12 @@
             <Components>
               <Component Subtype="TechA8x" Count="19"/>
               <Component Subtype="TechB8x" Count="19"/>
-              <Component Subtype="SteelPlate" Count="540"/>
-              <Component Subtype="LargeTube" Count="270"/>
-              <Component Subtype="SmallTube" Count="203"/>
-              <Component Subtype="Computer" Count="27"/>
-              <Component Subtype="Construction" Count="135"/>
-              <Component Subtype="SteelPlate" Count="405"/>
+                <Component Subtype="SteelPlate" Count="240"/>
+                <Component Subtype="LargeTube" Count="120"/>
+                <Component Subtype="SmallTube" Count="90"/>
+                <Component Subtype="Computer" Count="12"/>
+                <Component Subtype="Construction" Count="60"/>
+                <Component Subtype="SteelPlate" Count="180"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0"/>
             <MountPoints>
@@ -990,12 +990,12 @@
             <Components>
               <Component Subtype="TechA8x" Count="4"/>
               <Component Subtype="TechB8x" Count="4"/>
-              <Component Subtype="SteelPlate" Count="203"/>
-              <Component Subtype="LargeTube" Count="135"/>
-              <Component Subtype="SmallTube" Count="203"/>
-              <Component Subtype="Computer" Count="27"/>
-              <Component Subtype="Construction" Count="135"/>
-              <Component Subtype="SteelPlate" Count="68"/>
+                <Component Subtype="SteelPlate" Count="90"/>
+                <Component Subtype="LargeTube" Count="60"/>
+                <Component Subtype="SmallTube" Count="90"/>
+                <Component Subtype="Computer" Count="12"/>
+                <Component Subtype="Construction" Count="60"/>
+                <Component Subtype="SteelPlate" Count="30"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0"/>
             <MountPoints>
@@ -1076,12 +1076,12 @@
             <Components>
               <Component Subtype="TechA8x" Count="4"/>
               <Component Subtype="TechB8x" Count="4"/>
-              <Component Subtype="SteelPlate" Count="203"/>
-              <Component Subtype="LargeTube" Count="135"/>
-              <Component Subtype="SmallTube" Count="203"/>
-              <Component Subtype="Computer" Count="27"/>
-              <Component Subtype="Construction" Count="135"/>
-              <Component Subtype="SteelPlate" Count="68"/>
+                <Component Subtype="SteelPlate" Count="90"/>
+                <Component Subtype="LargeTube" Count="60"/>
+                <Component Subtype="SmallTube" Count="90"/>
+                <Component Subtype="Computer" Count="12"/>
+                <Component Subtype="Construction" Count="60"/>
+                <Component Subtype="SteelPlate" Count="30"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0"/>
             <MountPoints>
@@ -1168,12 +1168,12 @@
       <Components>
               <Component Subtype="TechA8x" Count="2"/>
               <Component Subtype="TechB8x" Count="2"/>
-              <Component Subtype="SteelPlate" Count="34"/>
-              <Component Subtype="LargeTube" Count="27"/>
-              <Component Subtype="SmallTube" Count="34"/>
-              <Component Subtype="Computer" Count="27"/>
-              <Component Subtype="Construction" Count="34"/>
-              <Component Subtype="SteelPlate" Count="21"/>
+                <Component Subtype="SteelPlate" Count="15"/>
+                <Component Subtype="LargeTube" Count="12"/>
+                <Component Subtype="SmallTube" Count="15"/>
+                <Component Subtype="Computer" Count="12"/>
+                <Component Subtype="Construction" Count="15"/>
+                <Component Subtype="SteelPlate" Count="9"/>
       </Components>
       <CriticalComponent Subtype="Computer" Index="0" />
       <MountPoints>
