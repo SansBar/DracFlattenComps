@@ -502,7 +502,7 @@
                 <TypeId>OxygenTank</TypeId>
                 <SubtypeId>OxygenTankDefault4x</SubtypeId>
             </Id>
-            <DisplayName>Proficient Small Oxygen Tank</DisplayName>
+            <DisplayName>Proficient Oxygen Tank</DisplayName>
             <GuiVisible>false</GuiVisible>
             <Icon>Textures\OxygenTank4x.dds</Icon>
             <Description>Description_OxygenTank</Description>
